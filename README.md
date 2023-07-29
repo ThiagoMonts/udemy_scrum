@@ -10,7 +10,7 @@ O curso de Gestão Ágil com SCRUM, ministrado pelo professor Gustavo Farias, ap
 <br>
 
 <p align="center">
-  <img alt="capa" src=".github/capa.jpg" width="100%">
+  <img alt="capa" src=".github/capa.jpg" width="40%">
 </p>
 
 <br>
